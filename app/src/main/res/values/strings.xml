@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardCompliments</string>
+    <string name="hey_there">Hey, there.</string>
+    <string name="logout">Logout</string>
+    <string name="hey_there_greeting">Hey there,</string>
+    <string name="you_are_the_best">.\nYou\'re the best.</string>
+    <string name="how_are_you">Hey there. How are you?</string>
+    <string name="meet_the_developer">Meet The Developer</string>
+</resources>
